@@ -706,6 +706,8 @@ TextBox = class(Frame)
 --     cosmetic improvements
 --     improved keyboard handling
 
+-- Improved TextBox by Twpster
+
 
 CCActiveTextBox = nil
 
